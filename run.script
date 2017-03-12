@@ -1,0 +1,8 @@
+Script started on 2017年03月12日 (週日) 15時47分57秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m ./lab1
+Enter a integer : 22
+Integer you have entered : 22
+Result : 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m exit
+
+Script done on 2017年03月12日 (週日) 15時48分10秒
