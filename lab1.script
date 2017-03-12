@@ -1,0 +1,17 @@
+Script started on 2017年03月12日 (週日) 15時14分49秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m who [Kami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.name=MrMKL
+user.email=jasonma_0803@Hotmail.com
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/MrMKL/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 5, done.[K
+remote: Compressing objects:  33% (1/3)   [Kremote: Compressing objects:  66% (2/3)   [Kremote: Compressing objects: 100% (3/3)   [Kremote: Compressing objects: 100% (3/3), done.[K
+remote: Total 5 (delta 0), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  20% (1/5)   Unpacking objects:  40% (2/5)   Unpacking objects:  60% (3/5)   Unpacking objects:  80% (4/5)   Unpacking objects: 100% (5/5)   Unpacking objects: 100% (5/5), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m exit
+
+Script done on 2017年03月12日 (週日) 15時15分54秒
