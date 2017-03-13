@@ -6,14 +6,19 @@ int main() {
   cin >> n;
   cout << "Integer you have entered : " << n << endl;
   cout << "Result : ";
-  for (n; n > 1; ) {
-    if (n % 2 != 0) {
-      n = 3 * n + 1;
-    } else {
-      n = n / 2;
-    }
+  if (n == 1) {
+    cout << n ;
+  } else {
     cout << n << " ";
+    for (n; n > 1; ) {
+      if (n % 2 != 0) {
+        n = 3 * n + 1;
+      } else {
+        n = n / 2;
+      }
+      cout << n << " ";
+    }
+    return 0;    
   }
-	cout << endl;
-  return 0;
+
 }
